@@ -1,0 +1,39 @@
+{
+    "github.copilot.nextEditSuggestions.eagerness": "low",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "javascriptreact": false
+    },
+    "custom-ui-style.electron": {
+        "frame": false,
+        "titleBarStyle": "hiddenInset",
+        "transparent": true,
+        "opacity": 0.9
+    },
+    "workbench.colorTheme": "Deep Dark Space - Black Moon",
+    "workbench.activityBar.location": "top",
+    "workbench.editor.showTabs": "single",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.indent": "16",
+    "explorer.compactFolders": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Dank Mono",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true, // ativa caracteres personalizados
+    "editor.wordWrap": "on",
+    "editor.lineNumbers": "on",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.snippetSuggestions": "top",
+    "emmet.triggerExpansionOnTab": true,
+    "window.menuBarVisibility": "hidden",
+}
